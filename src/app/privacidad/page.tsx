@@ -7,7 +7,7 @@ export default function PrivacyPage() {
         Política de privacidad
       </h1>
       <p className="leading-7 text-zinc-600">
-        Rockdex es un proyecto educativo. No recopilamos ni almacenamos datos
+        Rockdex es un proyec educativo. No recopilamos ni almacenamos datos
         personales de las personas que visitan este sitio.
       </p>
       <Link href="/" className="font-medium underline">
